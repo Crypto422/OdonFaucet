@@ -41,7 +41,7 @@ export default function Main() {
     <div>
       <ToastContainer theme="dark" position="top-center" />{" "}
       <h2 className="text-black text-3xl font-medium font-montserrat">
-        Get free BOW token
+        Get free ODON token
       </h2>
       <div className="mt-5">
         <div className="mt-2">
@@ -84,7 +84,7 @@ export default function Main() {
               target="_blank"
               rel="noopennner noreferrer"
               className="break-words"
-              href={"https://rinkeby.etherscan.io/tx/" + hash}
+              href={"https://testnet.bscscan.com/tx/" + hash}
             >
               {hash}
             </a>

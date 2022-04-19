@@ -21,7 +21,7 @@ function App() {
     <div className="min-w-screen min-h-screen bg-main h-auto pb-10 md:pb-0">
       {isSupportMetaMask ? (
         networkId != undefined ? (
-          networkId == 4 ? (
+          networkId == 97 ? (
             <div>
               {" "}
               <div>

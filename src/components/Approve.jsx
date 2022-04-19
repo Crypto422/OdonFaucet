@@ -98,7 +98,7 @@ export default function Main() {
               target="_blank"
               rel="noopennner noreferrer"
               className="break-words"
-              href={"https://rinkeby.etherscan.io/tx/" + hash}
+              href={"https://testnet.bscscan.com/tx/" + hash}
             >
               {hash}
             </a>

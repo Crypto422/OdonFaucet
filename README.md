@@ -1,8 +1,7 @@
-# BOW-token-faucet
-BOW Token faucet on rinkeby network
+# ODON-token-faucet
+ODON Token faucet on BSC network
 
-Link to bow token faucet: https://bow-token-faucet.vercel.app/
-![image](https://user-images.githubusercontent.com/74807962/158534236-fc413d7e-e365-4530-b507-9bef4e7827b6.png)
+Link to bow token faucet: https://odon-faucet.vercel.app/
 
 Skills:
 - [x] React
